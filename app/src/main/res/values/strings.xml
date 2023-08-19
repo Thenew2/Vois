@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vois</string>
+    <string name="tts_active">listo</string>
+    <string name="tts_noacttive">no esta disponible</string>
+    <string name="escribe_algo">Escribe algo</string>
+    <string name="button">Button</string>
+    <string name="si_escribees_aqui_un_texto_lo_podras_escuchar">si escribees aqui un texto lo podras escuchar</string>
+</resources>
